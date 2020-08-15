@@ -2,7 +2,7 @@
 
 ### I am a Javascript Developer from Colombia. Currently living in Perth, Australia.
 
-I’m a creative and responsible person in love with software development. I enjoy working with others and reaching personal goals. I’m always looking to learn new technologies and find new opportunities to give my best.
+#### I’m a creative and responsible person in love with software development. I enjoy working with others and reaching personal goals. I’m always looking to learn new technologies and find new opportunities to give my best.
 
 
 <details>
