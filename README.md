@@ -1,6 +1,8 @@
 # Hi there, I'm Any 👋
 
-### I am a Javascript Developer from Colombia. Currently living in Perth, Australia
+### I am a Javascript Developer from Colombia. Currently living in Perth, Australia.
+
+I’m a creative and responsible personinlovewithsoftwarede- velopment.Ienjoy working with others and reaching personal goals.I’m alwayslookingtolearn new technologiesandfindnew opportunitiestogivemybest.
 
 
 <details>
