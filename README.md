@@ -1,6 +1,7 @@
-### Hi there, I'm Any 👋
+# Hi there, I'm Any 👋
 
-## I'm a Developer
+### I am a Javascript Developer from Colombia. Currently living in Perth, Australia
+
 
 <details>
   <summary>:zap: Github Stats</summary>
